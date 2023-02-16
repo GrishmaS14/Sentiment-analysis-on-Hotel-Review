@@ -1,0 +1,2 @@
+# Sentiment-analysis-on-Hotel-Review
+In this project, we are going to implement Sentiment Analysis also known as opinion mining. Sentiment analysis is the process of computationally identifying and categorising opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral. We compare our results with the lexicon based approach. Plot distribution between positive and negative review, ROC curve to evaluate our results.
